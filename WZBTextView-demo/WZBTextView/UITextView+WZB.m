@@ -319,7 +319,7 @@ static bool autoHeight = NO;
         }
     }
     
-    if (!self.isFirstResponder) [self becomeFirstResponder];
+    //if (!self.isFirstResponder) [self becomeFirstResponder];
 }
 
 // 判断是否有placeholder值，这步很重要
