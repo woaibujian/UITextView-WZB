@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
 
   s.summary      = "Three big functions for system UITextView."
 
-  s.homepage     = "https://github.com/WZBbiao/UITextView-WZB"
+  s.homepage     = "https://github.com/woaibujian/UITextView-WZB.git"
 
   s.license      = "MIT"
 
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "8.0"
 
-  s.source       = { :git => "https://github.com/WZBbiao/UITextView-WZB.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/woaibujian/UITextView-WZB.git", :tag => s.version }
 
   s.source_files  = "WZBTextView-demo/WZBTextView/*.{h,m}"
 
